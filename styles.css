@@ -157,7 +157,8 @@ ul {
 }
 
 .logo-highlight {
-    color:#000000;
+    color:#000000;!important;
+    font-weight: bold;
 }
 
 /* Menu de Navegação */
@@ -1000,6 +1001,7 @@ ul {
     }
 
 }
+
 
 
 
