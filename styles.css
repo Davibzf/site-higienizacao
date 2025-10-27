@@ -250,7 +250,7 @@ ul {
     display: flex;
     align-items: center;
     background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
-                url('https://github.com/Davibzf/site-higienizacao/blob/main/capa1.png?raw=true') center/cover no-repeat;
+                url('https://imageshack.com/i/powXSdVpp') center/cover no-repeat;
     padding: 0 20px;
     margin-top: 70px;
 }
@@ -998,4 +998,5 @@ ul {
         height: 50px;
         font-size: 1.2rem;
     }
+
 }
