@@ -1,3 +1,14 @@
+header {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+}
+
+.logo img {
+  height: 50px; /* Ajuste a altura conforme necessário */
+  width: auto; /* Mantém a proporção da imagem */
+}
 /* Variáveis CSS */
 :root {
     --primary-color: #2a9d8f;
@@ -1000,4 +1011,5 @@ ul {
     }
 
 }
+
 
